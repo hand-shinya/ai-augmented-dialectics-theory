@@ -1,0 +1,1 @@
+<content of practical_applications.py>
