@@ -1,0 +1,46 @@
+# AI-Augmented Dialectics Theory - Dependencies
+# Core dependencies for AADT framework
+
+# Data Analysis and Computation
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization (for future analysis tools)
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Interactive Development
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# AI Integration (optional, for future extensions)
+openai>=1.0.0
+anthropic>=0.3.0
+
+# Natural Language Processing (for advanced text analysis)
+nltk>=3.6.0
+spacy>=3.4.0
+
+# Scientific Computing
+scipy>=1.7.0
+
+# Web Framework (for future web interface)
+flask>=2.0.0
+fastapi>=0.68.0
+
+# Testing Framework
+pytest>=6.0.0
+pytest-cov>=2.12.0
+
+# Documentation
+sphinx>=4.0.0
+mkdocs>=1.2.0
+
+# Development Tools
+black>=21.0.0
+flake8>=3.9.0
+mypy>=0.910
+
+# Note: Current implementation uses only Python standard library
+# These dependencies are for future enhancements and optional features
+# To run basic AADT functionality, no additional packages are required
