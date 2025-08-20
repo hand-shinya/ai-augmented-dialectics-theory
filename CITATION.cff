@@ -1,59 +1,23 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
+title: "AI-Augmented Dialectics Theory: Epistemological Revolution in Human-AI Co-Evolution"
+version: "1.0.0"
+abstract: "AI-Augmented Dialectics Theory (AADT) represents a paradigmatic shift in how humans engage with artificial intelligence—not as cognitive outsourcing, but as cognitive evolution. This framework integrates Eastern dialectical philosophy with cutting-edge AI capabilities to restore human epistemic sovereignty while leveraging artificial intelligence for enhanced thinking. AADT moves beyond conventional prompt engineering to establish a comprehensive framework for human-AI co-thinking that preserves and enhances human agency, creativity, and wisdom."
+license: "MIT"
 authors:
   - family-names: "Handa"
     given-names: "Shinya"
-    email: "your.email@example.com"
-    affiliation: "Founder of Comprehensive Intellectual Ownership Paradigm (CIOP)"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "AI-Augmented Dialectics Theory: Epistemological Revolution in Human-AI Co-Evolution"
-version: 1.0.0
-doi: 10.5281/zenodo.XXXXXXX
-date-released: 2025-08-19
-url: "https://github.com/username/ai-augmented-dialectics-theory"
-repository-code: "https://github.com/username/ai-augmented-dialectics-theory"
-license: MIT
-abstract: >-
-  AI-Augmented Dialectics Theory (AADT) represents a paradigmatic shift in how humans 
-  engage with artificial intelligence—not as cognitive outsourcing, but as cognitive 
-  evolution. This framework integrates Eastern dialectical philosophy with cutting-edge 
-  AI capabilities to restore human epistemic sovereignty while leveraging artificial 
-  intelligence for enhanced thinking. AADT moves beyond conventional prompt engineering 
-  to establish a comprehensive framework for human-AI co-thinking that preserves and 
-  enhances human agency, creativity, and wisdom.
+    email: "handa.shinya@gmail.com"
+    affiliation: "Independent Research"
 keywords:
-  - "AI-Augmented Dialectics"
-  - "Epistemological Sovereignty"
-  - "Cognitive Evolution"
-  - "Dialectical Co-thinking"
-  - "Philosophy of AI"
-  - "Human-AI Collaboration"
-  - "Miura Tsutomu"
-  - "Language Process Theory"
-  - "Eastern Philosophy"
-  - "Cognitive Science"
-references:
-  - type: article
-    title: "Language Process Theory and Dialectical Thinking"
-    authors:
-      - family-names: "Miura"
-        given-names: "Tsutomu"
-    year: 1967
-    notes: "Theoretical foundation for dialectical language processes"
-  - type: generic
-    title: "Comprehensive Intellectual Ownership Paradigm (CIOP)"
-    authors:
-      - family-names: "Handa"
-        given-names: "Shinya"
-    year: 2025
-    notes: "Foundational framework for intellectual property in AI age"
-preferred-citation:
-  type: generic
-  title: "AI-Augmented Dialectics Theory: Epistemological Revolution in Human-AI Co-Evolution"
-  authors:
-    - family-names: "Handa"
-      given-names: "Shinya"
-  year: 2025
-  url: "https://github.com/username/ai-augmented-dialectics-theory"
-  notes: "Original theoretical framework and implementation"
+  - AI-Augmented Dialectics
+  - Epistemological Sovereignty
+  - Cognitive Evolution
+  - Dialectical Co-thinking
+  - Philosophy of AI
+  - Human-AI Collaboration
+  - Miura Tsutomu
+  - Language Process Theory
+  - Eastern Philosophy
+  - Cognitive Science
